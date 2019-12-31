@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1575670636 source:c:\users\josemar júnior\desktop\ifba\inf006 - estrutura de dados e algoritimo\bublesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+	"main.h"
+
+1575660263 c:\users\josemar júnior\desktop\ifba\inf006 - estrutura de dados e algoritimo\bublesort\main.h
+
